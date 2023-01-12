@@ -2,7 +2,7 @@
 <h3 align="center">Backend developer from Turkey</h3>
 
 
-- 💬 Ask me about **Flask, Python**
+- 💬 Ask me about **Flask, Python, Linux**
 
 - 📫 How to reach me **erkamesen789@gmail.com**
 
