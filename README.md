@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
-<h1 align="center">Hi there 👋, I'm erkamesen</h1>
-<h3 align="center">Backend developer from Turkey</h3>
+<h1 align="left">Hi there 👋, I'm erkamesen</h1>
+<h3 align="left">Backend Developer - Energy Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
