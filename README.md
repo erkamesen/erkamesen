@@ -2,6 +2,40 @@
 <h1 align="left">Hi there 👋, I'm erkamesen</h1>
 <h3 align="left">Backend Developer - Energy Engineer</h3>
 
+I graduated from Karabuk University as Energy Systems Engineer and at the same time I am a computer programming student at Anadolu University.I love coding and creating new projects with what I have learned.I've 1.5 years of cnc programming-operator experience at Safranbolu/Karabuk.
+I have been dealing with music for 14 years. Instruments that I can play violin drums piano.
+
+  
+<br/>  
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+ 
+
+- 🌍 Living in Karabuk/Turkey  
+  
+
+- 🌱 I’m currently learning Flask, Python 
+  
+
+- ❓ Ask me about anything related to Back-end and related technologies  
+  
+
+- 📭 Mail me [info.erkamesen789@gmail.com](mailto:info.erkamesen789@gmail.com)  
+  
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+</br>
+
 <div align="center">
 <a href="https://github.com/erkamesen" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
