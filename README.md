@@ -80,5 +80,5 @@ I have been dealing with music for 14 years. Instruments that I can play violin 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erkamesen&theme=onedark" alt="erkamesen" /></a> </p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=erkamesen&" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkamesen&theme=tokyonight" alt="erkamesen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erkamesen&" /></p>
+
