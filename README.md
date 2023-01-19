@@ -9,8 +9,8 @@ I graduated from Karabuk University as Energy Systems Engineer and at the same t
 ## **My Band:**
 
 <div>
-<a href="(https://www.youtube.com/watch?v=mZwBZ9KRux4)"><img src="https://img.youtube.com/vi/mZwBZ9KRux4/0.jpg" alt="Bunu bi Düşünelim - Düş" style="width:500px;height:350px;"></a>
-<a href="(https://www.youtube.com/watch?v=eoH-NtIBsf8)"><img src="https://img.youtube.com/vi/eoH-NtIBsf8/0.jpg" alt="Bunu bi Düşünelim - Güz" style="width:500px;height:350px;"></a>
+<a href="(https://www.youtube.com/watch?v=mZwBZ9KRux4)"><img src="https://img.youtube.com/vi/mZwBZ9KRux4/0.jpg" alt="Bunu bi Düşünelim - Düş" style="width:450px;height:350px;"></a>
+<a href="(https://www.youtube.com/watch?v=eoH-NtIBsf8)"><img src="https://img.youtube.com/vi/eoH-NtIBsf8/0.jpg" alt="Bunu bi Düşünelim - Güz" style="width:450px;height:350px;"></a>
 </div>
 
 <div align="center">
