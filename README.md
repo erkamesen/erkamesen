@@ -4,8 +4,16 @@
 
 I graduated from Karabuk University as Energy Systems Engineer and at the same time, I am a Computer Programming student at Anadolu University. I love coding and creating new projects with what I have learned.I adapt easily to new technologies and my learning ability is strong. I've 1.5 years of 'CNC Programming-Operator' experience. I've been in the music industry for 14 years. The instruments that I can play are the violin, drums, and piano.
 
-  
-<br/>  
+
+***
+## **My Band:**
+
+<a href="(https://www.youtube.com/watch?v=mZwBZ9KRux4)"><img src="https://img.youtube.com/vi/mZwBZ9KRux4/0.jpg" alt="Bunu bi Düşünelim - Düş" style="width:500px;height:350px;"></a>
+<a href="(https://www.youtube.com/watch?v=eoH-NtIBsf8)"><img src="https://img.youtube.com/vi/eoH-NtIBsf8/0.jpg" alt="Bunu bi Düşünelim - Güz" style="width:500px;height:350px;"></a>
+
+
+***
+
 
 
 <table><tr><td valign="top" width="50%">
@@ -14,10 +22,10 @@ I graduated from Karabuk University as Energy Systems Engineer and at the same t
 - 🌍 Living in Karabuk/Turkey  
   
 
-- 🌱 I’m currently learning Flask, Python 
+- 🌱 I’m currently learning Flask, Python
   
 
-- ❓ Ask me about anything related to Back-end and related technologies  
+- ❓ Ask me about anything, i'm happy to help you  
   
 
 - 📭 Mail me [info.erkamesen789@gmail.com](mailto:info.erkamesen789@gmail.com)  
