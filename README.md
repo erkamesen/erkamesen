@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
-<h1 align="left">Hi there 👋, I'm erkamesen</h1>
+<h1 align="left">Hi there 🤘🤘🤘, I'm erkamesen</h1>
 <h3 align="left">Backend Developer - Energy Engineer</h3>
 
 I graduated from Karabuk University as Energy Systems Engineer and at the same time, I am a Computer Programming student at Anadolu University. I love coding and creating new projects with what I have learned.I adapt easily to new technologies and my learning ability is strong. I've 1.5 years of 'CNC Programming-Operator' experience. I've been in the music industry for 14 years. The instruments that I can play are the violin, drums, and piano.
