@@ -1,9 +1,22 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
 <h1 align="left">Hi there 🤘🤘🤘, I'm erkamesen</h1>
-<h3 align="left">Backend Developer - Energy Engineer</h3>
+<h3 align="left">Backend Developer</h3>
 
-I graduated from Karabuk University as Energy Systems Engineer and at the same time, I am a Computer Programming student at Anadolu University. I love coding and creating new projects with what I have learned.I adapt easily to new technologies and my learning ability is strong. I've 1.5 years of 'CNC Programming-Operator' experience. I've been in the music industry for 14 years. The instruments that I can play are the violin, drums, and piano.
+As a software developer with a focus on backend development, I have a foundation in data structures and algorithms and I am working to proficient in programming language Python. I have a solid understanding of a wide range of technologies; databases like Postgresql, and MongoDB, as well as in-memory data stores like  Redis. As a web developer, I am knowledgeable about HTML, CSS, JavaScript and Flask Framework. I adapt easily to new technologies and my learning ability is strong .I am always looking for ways to apply my skills and knowledge to new challenges and continue learning and growing as a developer. 
+I graduated from Karabuk University as Energy Systems Engineer and at the same time, I am a Computer Programming student at Anadolu University.I love coding and creating new projects with what I have learned. I've 1.5 years of 'CNC Programming-Operator' experience. I've been in the music industry for 14 years. The instruments that I can play are the guitar, drums and piano.
 
+***
+## Udemy Goals:
+
+- [x] [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) ✔️
+- [ ] [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)  ⌛
+- [ ] [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) ⌛
+- [ ] [Python and Flask Bootcamp: Create Websites using Flask!](https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/) ⌛
+- [ ] [Visual Studio ile Git, GitHub, BitBucket ve TFS Kullanımı](https://www.udemy.com/course/visual-studio-ile-git-github-bitbucket-ve-tfs-kursu/) ⌛
+- [ ] [Veri Yapıları ve Algoritmalar: Yazılım Mülakatları](https://www.udemy.com/course/yazilim-mulakatlari/) ⌛
+- [ ] [Linux Administration: The Complete Linux Bootcamp](https://www.udemy.com/course/master-linux-administration/) ⌛ 
+- [ ] [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) ⌛
+- [ ] [Clean Code](https://www.udemy.com/course/temiz-kod/) ⌛
 
 ***
 ## **My Band:**
