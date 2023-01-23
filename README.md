@@ -1,8 +1,7 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
 <h1 align="left">Hi there 🤘🤘🤘, I'm erkamesen</h1>
 <h3 align="left">Backend Developer</h3>
-
-As a software developer with a focus on backend development, I have a foundation in data structures and algorithms and I am working to proficient in programming language Python. I have a solid understanding of a wide range of technologies; databases like Postgresql, and MongoDB, as well as in-memory data stores like  Redis. As a web developer, I am knowledgeable about HTML, CSS, JavaScript and Flask Framework. I adapt easily to new technologies and my learning ability is strong .I am always looking for ways to apply my skills and knowledge to new challenges and continue learning and growing as a developer. 
+ 
 I graduated from Karabuk University as Energy Systems Engineer and at the same time, I am a Computer Programming student at Anadolu University.I love coding and creating new projects with what I have learned. I've 1.5 years of 'CNC Programming-Operator' experience. I've been in the music industry for 14 years. The instruments that I can play are the guitar, drums and piano.
 
 ***
