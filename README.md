@@ -98,6 +98,7 @@ I graduated from Karabuk University as Energy Systems Engineer and at the same t
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="55" height="55"/>
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkamesen&theme=blue-green">
 <p align="center" style='margin:20px'> <img src="https://komarev.com/ghpvc/?username=erkamesen&label=Profile%20views&color=0e75b6&style=flat" alt="erkamesen" width='200'/> </p>
 
 <p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="trophy" /> </p>
