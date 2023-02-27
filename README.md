@@ -8,14 +8,6 @@ I graduated from Karabuk University as Energy Systems Engineer and at the same t
 ## Udemy Goals:
 
 - [x] [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) ✔️
-- [ ] [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)  ⌛
-- [ ] [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) ⌛
-- [ ] [Python and Flask Bootcamp: Create Websites using Flask!](https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/) ⌛
-- [ ] [Visual Studio ile Git, GitHub, BitBucket ve TFS Kullanımı](https://www.udemy.com/course/visual-studio-ile-git-github-bitbucket-ve-tfs-kursu/) ⌛
-- [ ] [Veri Yapıları ve Algoritmalar: Yazılım Mülakatları](https://www.udemy.com/course/yazilim-mulakatlari/) ⌛
-- [ ] [Linux Administration: The Complete Linux Bootcamp](https://www.udemy.com/course/master-linux-administration/) ⌛ 
-- [ ] [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) ⌛
-- [ ] [Clean Code](https://www.udemy.com/course/temiz-kod/) ⌛
 
 ***
 ## **My Band:**
