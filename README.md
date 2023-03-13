@@ -5,10 +5,12 @@
 I graduated from Karabuk University as Energy Systems Engineer and at the same time, I am a Computer Programming student at Anadolu University.I love coding and creating new projects with what I have learned. I've 1.5 years of 'CNC Programming-Operator' experience. I've been in the music industry for 14 years. The instruments that I can play are the guitar, drums and piano.
 
 ***
-## Udemy Goals:
+## Courses & Certificates:
 
 - [x] [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) ✔️
-<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-761c2a68-cbcf-4ac7-a218-d79420388603.jpg?v=1674165862000" alt="Bunu bi Düşünelim - Düş" style="width:400px;height:250px;">
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-761c2a68-cbcf-4ac7-a218-d79420388603.jpg?v=1674165862000" style="width:400px;height:250px;">
+
+<mg src="https://www.sololearn.com/certificates/CT-UMC8QNFR"  style="width:400px;height:250px;">
 
 ## **My Band:**
 
