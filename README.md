@@ -8,9 +8,9 @@
 ## Certificates:
 
 <div>
-<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-761c2a68-cbcf-4ac7-a218-d79420388603.jpg?v=1674165862000"  style="width:475px;height:300px;">
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-761c2a68-cbcf-4ac7-a218-d79420388603.jpg?v=1674165862000"  style="width:425px;height:300px;">
 
-<img src="https://api2.sololearn.com/v2/certificates/CT-UMC8QNFR/image/jpg"  style="width:475px;height:300px;">
+<img src="https://api2.sololearn.com/v2/certificates/CT-UMC8QNFR/image/jpg"  style="width:425px;height:300px;">
 </div>
 
 ## My Band:
