@@ -10,7 +10,7 @@ I graduated from Karabuk University as Energy Systems Engineer and at the same t
 - [x] [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) ✔️
 <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-761c2a68-cbcf-4ac7-a218-d79420388603.jpg?v=1674165862000" style="width:400px;height:250px;">
 
-<mg src="https://www.sololearn.com/certificates/CT-UMC8QNFR"  style="width:400px;height:250px;">
+<img src="https://api2.sololearn.com/v2/certificates/CT-UMC8QNFR/image/jpg"  style="width:400px;height:250px;">
 
 ## **My Band:**
 
