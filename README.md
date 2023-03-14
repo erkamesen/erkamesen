@@ -7,22 +7,50 @@
 ***
 ## Certificates:
 
-<div>
-<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-761c2a68-cbcf-4ac7-a218-d79420388603.jpg?v=1674165862000"  style="width:400px;height:300px;">
+<table><tr><td valign="top" width="50%">
+ 
+ <div align="center">
+ <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-761c2a68-cbcf-4ac7-a218-d79420388603.jpg?v=1674165862000" align="center"  style="width: 100%">
+ </div>  
 
-<img src="https://api2.sololearn.com/v2/certificates/CT-UMC8QNFR/image/jpg"  style="width:400px;height:300px;">
-</div>
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://api2.sololearn.com/v2/certificates/CT-UMC8QNFR/image/jpg"  align="center"  style="width: 100%">
+</div>  
+</td></tr></table>  
+
+
 
 ## My Band:
 
-<div>
-<a href="https://www.youtube.com/watch?v=mZwBZ9KRux4"><img src="https://img.youtube.com/vi/mZwBZ9KRux4/0.jpg" alt="Bunu bi Düşünelim - Düş" style="width:400px;height:250px;"></a>
-<a href="https://www.youtube.com/watch?v=eoH-NtIBsf8"><img src="https://img.youtube.com/vi/eoH-NtIBsf8/0.jpg" alt="Bunu bi Düşünelim - Güz" style="width:400px;height:250px;"></a>
-</div>
+<table><tr><td valign="top" width="50%">
+ 
+ <div align="center">
+ <a href="https://www.youtube.com/watch?v=mZwBZ9KRux4"><img src="https://img.youtube.com/vi/mZwBZ9KRux4/0.jpg" alt="Bunu bi Düşünelim - Düş" align="center" style="width: 100%"></a>
+ </div>  
 
+</td><td valign="top" width="50%">
+
+<div align="center">
+<a href="https://www.youtube.com/watch?v=eoH-NtIBsf8"><img src="https://img.youtube.com/vi/eoH-NtIBsf8/0.jpg" alt="Bunu bi Düşünelim - Güz" align="center" style="width: 100%"></a>
+</div>  
+</td></tr>
+<tr><td align="center" width="50%">
 <div align="center">
 <a align="center" href="https://open.spotify.com/artist/4geQL0wYQCVpYmpHRfogSt" title="Spotify"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-brands-logo-34.png" width="100" alt="spotify" /></a>
 </div>
+ </td>
+ <td align="center" width="50%">
+<div align="center">
+<a align="center" href="https://music.apple.com/tr/artist/bunu-bi-d%C3%BC%C5%9F%C3%BCnelim/1518252537" title="Spotify"><img src="https://user-images.githubusercontent.com/120065120/225154732-7ab25857-40ad-4d9b-8074-59c8a6fe3ffc.png" width="100" alt="spotify" /></a>
+</div>
+ </td></tr></table>  
+
+
+
+
+
 
 
 ***
