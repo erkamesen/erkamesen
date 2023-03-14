@@ -2,17 +2,18 @@
 <h1 align="left">Hi there 🤘🤘🤘, I'm erkamesen</h1>
 <h3 align="left">Backend Developer</h3>
  
-I graduated from Karabuk University as Energy Systems Engineer and at the same time, I am a Computer Programming student at Anadolu University.I love coding and creating new projects with what I have learned. I've 1.5 years of 'CNC Programming-Operator' experience. I've been in the music industry for 14 years. The instruments that I can play are the guitar, drums and piano.
+<i> I graduated from Karabuk University as Energy Systems Engineer and at the same time, I am a Computer Programming student at Anadolu University.I love coding and creating new projects with what I have learned. I've 1.5 years of 'CNC Programming-Operator' experience. I've been in the music industry for 14 years. The instruments that I can play are the guitar, drums and piano. </i>
 
 ***
-## Courses & Certificates:
+## Certificates:
 
-- [x] [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) ✔️
-<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-761c2a68-cbcf-4ac7-a218-d79420388603.jpg?v=1674165862000" style="width:400px;height:250px;">
+<div>
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-761c2a68-cbcf-4ac7-a218-d79420388603.jpg?v=1674165862000"  style="width:475px;height:300px;">
 
-<img src="https://api2.sololearn.com/v2/certificates/CT-UMC8QNFR/image/jpg"  style="width:400px;height:250px;">
+<img src="https://api2.sololearn.com/v2/certificates/CT-UMC8QNFR/image/jpg"  style="width:475px;height:300px;">
+</div>
 
-## **My Band:**
+## My Band:
 
 <div>
 <a href="https://www.youtube.com/watch?v=mZwBZ9KRux4"><img src="https://img.youtube.com/vi/mZwBZ9KRux4/0.jpg" alt="Bunu bi Düşünelim - Düş" style="width:400px;height:250px;"></a>
