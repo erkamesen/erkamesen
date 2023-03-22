@@ -2,7 +2,7 @@
 <h1 align="left">Hi there 🤘🤘🤘, I'm erkamesen</h1>
 <h3 align="left">Backend Developer</h3>
  
-<i> I graduated from Karabuk University as Energy Systems Engineer and at the same time, I am a Computer Programming student at Anadolu University.I love coding and creating new projects with what I have learned. I've 1.5 years of 'CNC Programming-Operator' experience. I've been in the music industry for 14 years. The instruments that I can play are the guitar, drums and piano. </i>
+<i> I graduated from Karabuk University as Energy Systems Engineer and at the same time, I am a Computer Programming student at Anadolu University.I love coding and creating new projects with what I have learned. I've 1.5 years of 'CNC Programming-Operator' experience. I've been in the music industry for 14 years. The instruments that I can play are the guitar, drums and piano.. </i>
 
 ***
 ## Certificates:
