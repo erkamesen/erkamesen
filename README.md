@@ -16,7 +16,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://api2.sololearn.com/v2/certificates/CT-UMC8QNFR/image/jpg"  align="center"  style="width: 100%">
+
 </div>  
 </td></tr></table>  
 
