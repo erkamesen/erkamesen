@@ -57,7 +57,7 @@
 
 
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
  
 
 - 🌍 Living in Karabuk/Turkey  
@@ -76,7 +76,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/NHA2Adla3bub73guuE/giphy.gif" align="center"  />
 </div>  
 
 
