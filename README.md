@@ -69,7 +69,7 @@
 - ❓ Ask me about anything, i'm happy to help you  
   
 
-- 📭 Mail me [info.erkamesen789@gmail.com](mailto:info.erkamesen789@gmail.com)  
+- 📭 Mail me [erkamesen789@gmail.com](mailto:erkamesen789@gmail.com)  
   
 
 
