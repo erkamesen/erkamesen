@@ -4,7 +4,8 @@
  
 <i> I graduated from Karabuk University as Energy Systems Engineer and at the same time, I am a Computer Programming student at Anadolu University.I love coding and creating new projects with what I have learned. I've 1.5 years of 'CNC Programming-Operator' experience. I've been in the music industry for 14 years. The instruments that I can play are the guitar, drums and piano.. </i>
 
-***
+<img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
+
 ## Certificates:
 
 <table><tr><td valign="top" width="50%">
@@ -122,6 +123,7 @@
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkamesen&theme=blue-green">
+
 <p align="center" style='margin:20px'> <img src="https://komarev.com/ghpvc/?username=erkamesen&label=Profile%20views&color=0e75b6&style=flat" alt="erkamesen" width='200'/> </p>
 
 <p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="trophy" /> </p>
@@ -129,4 +131,5 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erkamesen&theme=onedark" alt="erkamesen" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erkamesen&" /></p>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
