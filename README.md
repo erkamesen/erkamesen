@@ -15,7 +15,9 @@
  </div>  
 
 </td><td valign="top" width="50%">
-
+ <div align="center">
+ <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-c867693d-8e50-4656-9f47-0bcf75b60985.jpg?v=1699272117000" align="center"  style="width: 100%">
+ </div>  
 <div align="center">
 
 </div>  
