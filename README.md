@@ -5,7 +5,19 @@
 <i> I graduated from Karabuk University as Energy Systems Engineer and at the same time, I am a Computer Programming student at Anadolu University.I love coding and creating new projects with what I have learned. I've 1.5 years of 'CNC Programming-Operator' experience. I've been in the music industry for 14 years. The instruments that I can play are the guitar, drums and piano.. </i>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
+<div align="center">
 
+<picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erkamesen/erkamesen/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erkamesen/erkamesen/output/github-contribution-grid-snake.svg">
+
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erkamesen/erkamesen/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</div>
 
 ## My Band:
 
