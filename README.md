@@ -60,7 +60,7 @@
 - 🌍 Living in Karabuk/Turkey  
   
 
-- 🌱 I’m currently learning Flask, Python
+- 🌱 I’m currently learning Django, Selenium, PyTest, Robot Framework
   
 
 - ❓ Ask me about anything, i'm happy to help you  
